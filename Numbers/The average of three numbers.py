@@ -6,3 +6,4 @@ b = float(b)
 c = float(c)
 average = (a+b+c) / 3
 print ("Среднее:", average)
+#4 задания
