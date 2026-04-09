@@ -7,4 +7,4 @@ print(a)
 print(b)
 print(c)
 print(d)
-#7
+#7 задания
