@@ -1,4 +1,4 @@
-
+#4
 nums = (input("Введите 3 числа"))
 a, b, c = nums.split(",")
 a = float(a)
