@@ -1,7 +1,6 @@
 first_number = float(input("Введите первое число: "))
 second_number = float(input("Введите второе число: "))
 operation = input("Введите Операцию например (+, -, *, /): ")
-
 if operation == "+":
     result = first_number + second_number
 elif operation == "-":
